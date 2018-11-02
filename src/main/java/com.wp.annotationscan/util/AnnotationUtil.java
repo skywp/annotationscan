@@ -12,7 +12,7 @@ import java.lang.reflect.Method;
  * @Package com.wp.annotationscan.util
  * @date 2018/11/1
  */
-public final class AnnotionUtils {
+public final class AnnotationUtil {
     /**
      * 注解在字段上
      */
