@@ -6,7 +6,7 @@
 
     <groupId>com.github.skywp</groupId>
     <artifactId>annotationscan</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <name>annotation scan</name>
@@ -88,7 +88,7 @@
                         </executions>
                     </plugin>
                     <!-- GPG -->
-                    <plugin> <!-- 进行延签 -->
+                    <plugin> <!-- 进行验签 -->
                         <groupId>org.apache.maven.plugins</groupId>
                         <artifactId>maven-gpg-plugin</artifactId>
                         <version>1.6</version>
