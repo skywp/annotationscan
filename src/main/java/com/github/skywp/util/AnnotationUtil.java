@@ -1,6 +1,6 @@
-package com.wp.annotationscan.util;
+package com.github.skywp.util;
 
-import com.wp.annotationscan.annotation.RequiredMe;
+import com.github.skywp.annotation.RequiredMe;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
@@ -9,7 +9,7 @@ import java.lang.reflect.Method;
  * @author WangPeng
  * @ClassName: AnnotionUtils
  * @Description: 注解校验工具
- * @Package com.wp.annotationscan.util
+ * @Package com.github.skywp.util
  * @date 2018/11/1
  */
 public final class AnnotationUtil {

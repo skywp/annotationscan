@@ -1,12 +1,12 @@
-package com.wp.annotationscan.entity;
+package com.github.skywp.entity;
 
-import com.wp.annotationscan.annotation.RequiredMe;
+import com.github.skywp.annotation.RequiredMe;
 
 /**
  * @author WangPeng
  * @ClassName: Student
  * @Description: 用于测试
- * @Package com.wp.annotationscan.entity
+ * @Package com.github.skywp.entity
  * @date 2018/11/1
  */
 public class Student {

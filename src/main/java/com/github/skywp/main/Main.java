@@ -1,13 +1,13 @@
-package com.wp.annotationscan.main;
+package com.github.skywp.main;
 
-import com.wp.annotationscan.entity.Student;
-import com.wp.annotationscan.util.AnnotationUtil;
+import com.github.skywp.entity.Student;
+import com.github.skywp.util.AnnotationUtil;
 
 /**
  * @author WangPeng
  * @ClassName: Main
  * @Description: 测试
- * @Package com.wp.annotationscan.main
+ * @Package com.github.skywp.main
  * @date 2018/11/1
  */
 public class Main {
